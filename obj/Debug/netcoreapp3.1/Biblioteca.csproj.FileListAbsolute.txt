@@ -51,3 +51,7 @@ C:\Users\Seven\Downloads\Atv1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets
 C:\Users\Seven\Downloads\Atv1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Seven\Downloads\Atv1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Seven\Downloads\Atv1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Seven\Downloads\Atv1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\Seven\Downloads\Atv1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\EditarUsuarios.cshtml.g.cs
+C:\Users\Seven\Downloads\Atv1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListarUsuarios.cshtml.g.cs
+C:\Users\Seven\Downloads\Atv1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
